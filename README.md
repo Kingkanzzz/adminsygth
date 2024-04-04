@@ -1,6 +1,6 @@
 # adminsygth
 
-A new Flutter project.
+For Admin
 
 ## Getting Started
 
